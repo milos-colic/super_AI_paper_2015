@@ -14,4 +14,4 @@ This is an old academic paper, kept here as an early snapshot of how I was think
 
 I recently revisited these ideas in a new Medium post:
 
-`[Add Medium link here]`
+`[Medium blog](https://medium.com/@milos.colic/i-wrote-an-ai-paper-in-2015-what-still-feels-right-is-context-and-why-emotion-still-matters-e56a97036406)`
